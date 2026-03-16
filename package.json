@@ -84,6 +84,8 @@
         "png-chunks-extract": "^1.0.0",
         "proxy-agent": "^6.5.0",
         "rate-limiter-flexible": "^5.0.5",
+        "react": "^19.2.4",
+        "react-dom": "^19.2.4",
         "react-router-dom": "^7.13.1",
         "response-time": "^2.3.4",
         "sanitize-filename": "^1.6.3",

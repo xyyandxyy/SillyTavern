@@ -257,6 +257,12 @@ dependencies:
   rate-limiter-flexible:
     specifier: ^5.0.5
     version: 5.0.5
+  react:
+    specifier: ^19.2.4
+    version: 19.2.4
+  react-dom:
+    specifier: ^19.2.4
+    version: 19.2.4(react@19.2.4)
   react-router-dom:
     specifier: ^7.13.1
     version: 7.13.1(react-dom@19.2.4)(react@19.2.4)
